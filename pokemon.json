@@ -1,0 +1,6 @@
+[
+  { "name": "Pikachu", "type": "Lightning" },
+  { "name": "Charizard", "type": "Fire" },
+  { "name": "Togepi", "type": "Fairy" },
+  { "name": "Mew", "type": "Psychic" }
+]
